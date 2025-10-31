@@ -1,0 +1,82 @@
+{
+    "todo": [
+      {
+        "id": "1",
+        "title": "todo 리스트 프로젝트",
+        "content": "이해하면 정말 쉬운 서버와의 통신",
+        "userId": "홍길동",
+        "isChecked": false
+      },
+      {
+        "id": "2",
+        "title": "Json-server 숙달하기",
+        "content": "fetch를 통해 데이터 가져오기",
+        "userId": "장보고",
+        "isChecked": false
+      },
+      {
+        "id": "3",
+        "title": "즐거운 리액트 수업",
+        "content": "점점 재밌어 지는 리액트 수업",
+        "userId": "김철수",
+        "isChecked": false
+      },
+      {
+        "id": "4",
+        "title": "주말에도 힘이 나는 프론트엔드",
+        "content": "프론트엔드는 보여줄 수 있는 페이지가 많다",
+        "userId": "김영희",
+        "isChecked": false
+      },
+      {
+        "id": "5",
+        "title": "fetch 자유자재로 다뤄보기",
+        "content": "자유 자재로 다뤘으니 이제 자야지",
+        "userId": "잠만보",
+        "isChecked": false
+      }
+    ],
+    "memo": [
+      {
+        "id": "1",
+        "title": "오늘 할일을 적는 첫 메모",
+        "description": "집에가서 잠자기"
+      },
+      {
+        "id": "2",
+        "title": "오늘 할일 적어보기",
+        "description": "집에가서 밥먹기"
+      },
+      {
+        "id": "3",
+        "title": "오늘 할일 적어보기",
+        "description": "리액트 복습하기"
+      }
+    ],
+    "users": [
+      {
+        "id": "1",
+        "name": "김세환",
+        "age": 20,
+        "address": "경기도"
+      },
+      {
+        "id": "2",
+        "name": "홍길동",
+        "age": 33,
+        "address": "강원도"
+      },
+      {
+        "id": "3",
+        "name": "김철수",
+        "age": 17,
+        "address": "서울시"
+      },
+      {
+        "id": "4",
+        "name": "김영희",
+        "age": 25,
+        "address": "인천광역시"
+      }
+    ]
+  }

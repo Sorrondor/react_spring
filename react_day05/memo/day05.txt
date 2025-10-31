@@ -1,0 +1,21 @@
+리액트 Custom Hooks Pattern 폴더 구조
+
+[components]
+[utils]
+	- arrayheler.js
+	- parseheler.js
+[consts]
+	- key.js (상수, 문자열)
+[styles]
+	- theme.js
+	- globalStyle.js
+	- common.js
+	...
+[pages]
+	[Home]
+		[Hooks]
+		[Components]
+		-home.js
+[routes]
+[hooks]
+... etc
